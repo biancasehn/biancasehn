@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+in case you wanna know a little bit about me:
+
 :house: brazilian <br/>
 :round_pushpin: currently living in Hungary <br/>
 :books: currently studying <strong>Web Development</strong> at Awari School :blue_heart: <br/>
