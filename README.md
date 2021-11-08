@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 in case you wanna know a little bit about me:
@@ -10,4 +11,4 @@ in case you wanna know a little bit about me:
 :airplane: fascinated by travelling and exploring <br/>
 
 :link: Let's connect! :arrow_right: 
-<a target="_blank" href="https://www.linkedin.com/in/bianca-sehn-95b72b140/">LinkedIn</a>
+[LinkedIn]("https://www.linkedin.com/in/bianca-sehn-95b72b140/")
