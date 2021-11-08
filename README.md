@@ -11,4 +11,4 @@ in case you wanna know a little bit about me:
 :airplane: fascinated by travelling and exploring <br/>
 
 :link: Let's connect! :arrow_right: 
-[LinkedIn]("https://www.linkedin.com/in/bianca-sehn-95b72b140/")
+[LinkedIn](https://www.linkedin.com/in/bianca-sehn-95b72b140/)
